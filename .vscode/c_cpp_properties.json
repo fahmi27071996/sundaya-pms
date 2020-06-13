@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\stm32duino\\tools\\**",
+                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\stm32duino\\hardware\\STM32F1\\2019.11.26\\**",
+                "C:\\Users\\SangengoN\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\stm32duino\\hardware\\STM32F1\\2019.11.26\\libraries\\**",
+                "C:\\Users\\SangengoN\\AppData\\Local\\Arduino15\\packages\\stm32duino\\hardware\\STM32F1\\libraries\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.22.27905/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
